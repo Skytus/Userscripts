@@ -13,7 +13,7 @@
 (function() {
     var url = new URL(window.location);
 
-    if (url.hostname === "www.youtube.com" && url.pathname === "/watch") {
+    if (url.pathname === "/watch") {
         const videoId = url.searchParams.get("v");
 
         if (videoId) {
