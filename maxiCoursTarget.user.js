@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         Fix New-Window Links (Remove target Attribute)
-// @namespace    https://github.com/theborg3of5/Userscripts/
+// @namespace    https://github.com/Skytus
 // @version      1.0
 // @description  Remove the target attribute from the links matching the given string.
 // @author       Gavin Borg
-// @require      https://greasyfork.org/scripts/28536-gm-config/code/GM_config.js?version=184529
 // @match        https://my.maxicours.com/espace-client/mes-enfants
 // @grant        GM_registerMenuCommand
 // @grant        GM_getValue
