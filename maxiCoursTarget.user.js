@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Remove the target attribute from the links matching the given string.
 // @author       Gavin Borg
-// @match        https://my.maxicours.com/espace-client/mes-enfants
+// @match        https://my.maxicours.com/
 // @grant        GM_registerMenuCommand
 // @grant        GM_getValue
 // @grant        GM_setValue
