@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fix New-Window Links (Remove target Attribute)
 // @namespace    https://github.com/Skytus
-// @version      1.0
+// @version      1.1
 // @description  Remove the target attribute from the links matching the given string.
 // @author       Gavin Borg
 // @match        https://my.maxicours.com/
